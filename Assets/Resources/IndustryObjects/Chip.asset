@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Chip
   m_EditorClassIdentifier: 
   <Model>k__BackingField: {fileID: 0}
-  <Image>k__BackingField: {fileID: 21300000, guid: a6f92c447576bdc4988299721b7f73f1,
+  <Image>k__BackingField: {fileID: 21300000, guid: 76e8a368989b92b40a5ede94e9296074,
     type: 3}
   <Price>k__BackingField: 2000
   <ObjectType>k__BackingField: 8
