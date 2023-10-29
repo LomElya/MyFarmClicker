@@ -1,0 +1,2 @@
+# MyFarmClicker
+Кликер-ферма
