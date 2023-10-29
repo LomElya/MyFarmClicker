@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 861a16e54092bec408d84c45c3e19bc3, type: 3}
+  m_Name: GardenBed
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 0}
+  <Image>k__BackingField: {fileID: 21300000, guid: fd9b0c84ce63d86408982d9e7b2b086a,
+    type: 3}
+  <Price>k__BackingField: 50
+  <ObjectType>k__BackingField: 0
