@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb32231cae57cd2489784aac68641a34, type: 3}
+  m_Name: BonusFactory
+  m_EditorClassIdentifier: 
+  <BonusConfig>k__BackingField:
+  - <ID>k__BackingField: 1
+    <ListBonus>k__BackingField: 0
+    <Bonus>k__BackingField:
+    - <Level>k__BackingField: 1
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 0.1
+    - <Level>k__BackingField: 2
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 0.5
+    - <Level>k__BackingField: 3
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 1
+  - <ID>k__BackingField: 2
+    <ListBonus>k__BackingField: 1
+    <Bonus>k__BackingField:
+    - <Level>k__BackingField: 1
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 0.1
+    - <Level>k__BackingField: 2
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 0.5
+    - <Level>k__BackingField: 3
+      <Image>k__BackingField: {fileID: 0}
+      <Profit>k__BackingField: 1
