@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e98f3811e1eeb1c458c2344c43e4b247, type: 3}
+  m_Name: IndustryFactory
+  m_EditorClassIdentifier: 
+  _industryConfigs:
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: c3c4ebf0a45dc3b43b9bc3a2c08ec796,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: ca621694bb774994f8b82d3f0ff6726b,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: 187ce664e0569e44ea64c8cf91734536,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: b18bcc5400b19d7419f695fbba53c0e7,
+      type: 2}
+  - _industryPrefab: {fileID: -2326358277792385991, guid: 9734c5c8ca3834c47859e8da354c6bd8,
+      type: 3}
+    _industryItemObject: {fileID: 11400000, guid: 3adc180cc304f4b4996ff5de3d0f67bb,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: a7b8cc03193520c4c8b80b35fa857b73,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: e7dcd9b71d03bf44cab7784f59873810,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: e4c104707eee2e246bd282b8913867b2,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: 34d534dec6c20fd48ac50505cf5bceb4,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: ac77101705852e749a7bca7c20731454,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: 3d52d0d0cc53d0d41ad65374d9bba765,
+      type: 2}
+  - _industryPrefab: {fileID: 0}
+    _industryItemObject: {fileID: 11400000, guid: b166dbe1cbcd2a443b5868f247a8a88a,
+      type: 2}
